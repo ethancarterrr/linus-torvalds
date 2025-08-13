@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #94938d;
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+  background-color: #696554;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.intro img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+h2.typewriter {
+  font-family: "Lucida Console", monospace;
+  color: #2b2711;
+  padding: 10px;
+}
+
+.highlight {
+  background-color: #e0ce7b;
+  border-left: 4px solid orange;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+} 
